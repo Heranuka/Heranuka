@@ -8,8 +8,8 @@
 - 🔭 Работаю над pet-проектами на Go, использую best practices и современные архитектурные подходы  
 - 🌱 Изучаю микросервисы, Docker, PostgreSQL, REST API, gRPC, Kafka  
 - 💬 Готов поделиться опытом по Go, Gin, PostgreSQL, Docker, JWT  
-- 📄 [Моё резюме (PDF)](https://heranuka.github.io/)  
-- 📬 Связаться: [Telegram](https://t.me/Сazymo) | [Почта](mailto:retimixa@gmail.com)
+- 📄 [Моё резюме (https://heranuka.github.io/)  
+- 📬 Связаться: [Telegram](https://t.me/@Сazymo) | [Почта](mailto:retimixa@gmail.com)
 
 ---
 
@@ -17,14 +17,36 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
-  <img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" width="40" title="Gin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="40" title="gRPC" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+<img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" width="40" title="Gin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="40" title="gRPC" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+
+<!-- Grafana -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
+
+<!-- Prometheus -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus" />
+
+<!-- Kafka (повтор для акцента на стриминг) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
+
+<!-- RabbitMQ (через Simple Icons) -->
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40" title="RabbitMQ" />
+
+<!-- Redis -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+
+<!-- CI/CD (обобщённо через GitHub Actions) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="CI/CD" />
+
+<!-- Swagger / OpenAPI -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger" />
+
 </p>
 
 ---
