@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня Асхаб 👋</h1>
+<h1 align="center">Привет, меня зовут Асхаб 👋</h1>
 <h3 align="center">Backend-разработчик на Go</h3>
 
 ---
